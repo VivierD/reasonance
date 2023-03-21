@@ -322,6 +322,7 @@ export default class Muse {
                 MuseInfo.characteristics.map ( item => {
                     if (item.type === 'electrode')
                     {
+                        
                         service.getCharacteristic( item.uid )
                         .then( char => char.startNotifications())
                         .then ( char => {

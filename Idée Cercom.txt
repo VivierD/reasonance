@@ -1,0 +1,12 @@
+Priorité :
+
+Case pour cacher/montrer les metrics individuels + case pour metrics 
+avancée/déutants
+
+4 scénarios
+
+Bonus :
+
+Mode de metric : case à cocher au lieu de bande déroulante
+
+Lorsque fin de partie, retour position initiale

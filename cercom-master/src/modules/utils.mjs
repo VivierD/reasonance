@@ -30,3 +30,6 @@ const HeartManagerDeviceOptions = {
 }
 
 export { MuseInfo, MuseDeviceOptions, HeartManagerInfo, HeartManagerDeviceOptions }
+
+// UUID 0000fec0-0000-1000-8000-00805f9b34fb found in Service with UUID 0000fec0-0000-1000-8000-00805f9b34fb.
+// No Characteristics matching UUID d287a46d-df14-9b2a-f70e-360156dcd627 found in Service with UUID 0000fec0-0000-1000-8000-00805f9b34fb.
